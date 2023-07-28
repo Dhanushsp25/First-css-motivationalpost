@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.post{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color:white;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    text-transform: uppercase;
+}
+.pic{
+    border: 5px solid white;
+    width: 100%;
+}
